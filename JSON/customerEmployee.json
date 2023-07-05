@@ -1,0 +1,16 @@
+﻿{
+  "customer_id": "901",
+  "customer_name ": "company",
+  "employees ": [
+    {
+      "first_name ": "ram",
+      "last_name ": "raj",
+      "phone ": "9988776655"
+    },
+    {
+      "first_name ": "shaik",
+      "last_name ": "ismail",
+      "phone ": "9998887776"
+    }
+  ]
+}
